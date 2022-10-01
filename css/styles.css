@@ -1,5 +1,5 @@
 body{
-    background-color: #eaf6f6;
+    background-color: whitesmoke;
 }
 
 hr{
@@ -11,10 +11,15 @@ hr{
     width: 3%;
 }
 
-h1{
-    color: #66BFBF;
+h1, h3, ul, th{
+    color: black;
 }
 
-h3{
-    color: #66BFBF;
+p, li, td{
+    color: black;
 }
+
+#ProfileIntro, #Education, #Work, #Skills, #Contact {
+    padding: 3% 10% 7% 3%;
+}
+
