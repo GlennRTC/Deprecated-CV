@@ -19,6 +19,11 @@ p, li, td{
     color: black;
 }
 
+img {
+	max-width: 60%;
+	height: auto%;
+}
+
 #ProfileIntro, #Education, #Work, #Skills, #Contact {
     padding: 3% 10% 7% 3%;
 }
